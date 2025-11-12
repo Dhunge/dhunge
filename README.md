@@ -1,24 +1,50 @@
-# Hi there 👋, I'm Nish Adhikari
-### A passionate learner from Nepal 🇳🇵
+# Nish Adhikari
 
- I’m currently learning **Flask, Python, and Markdown**  
- Ask me about **web development & GitHub Pages**  
- How to reach me: Gmail: adhikarinish3@gmail.com  
- Fun fact: I love solving tech problems!
+## About Me
+I'm a dedicated learner and aspiring software developer focused on building reliable and well-structured web applications. I’m passionate about writing clean code, learning modern frameworks, and contributing to open-source projects.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhunge)
-![GitHub followers](https://img.shields.io/github/followers/Dhunge?label=Followers)
+---
 
-![Nish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhunge&show_icons=true&theme=radical)
+## Current Focus
+- Backend development with **Python** and **Flask**  
+- Learning **GitHub Pages** and **Markdown** for documentation and portfolio design  
+- Improving collaboration and workflow with **Git** and **version control best practices**
 
-##  Skills
-- Python 
-- Flask 
-- HTML & CSS 
-- Markdown 
+---
 
-##  Featured Projects
-- [Portfolio Website](https://github.com/Dhunge/portfolio)
-- [Flask Greeting App](https://github.com/Dhunge/flask-greet)
+## Skills
+- **Languages:** Python, HTML, CSS  
+- **Frameworks & Tools:** Flask, Git, GitHub  
+- **Other:** Markdown, VS Code, Basic Web Deployment
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+---
+
+## Projects
+- [Flask Greeting App](https://github.com/Dhunge/flask-greet) – A dynamic web app built with Flask that greets users interactively.  
+- [Portfolio Website](https://github.com/Dhunge/portfolio) – Personal website to showcase my projects and skills.  
+
+<div align="center">
+  <a href="https://github.com/Dhunge?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects">
+  </a>
+</div>
+
+---
+
+## GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhunge&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhunge&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhunge&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+- **GitHub:** [Dhunge](https://github.com/Dhunge)  
+- **LinkedIn:** [Nish Adhikari](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+- **Email:** your.email@example.com
