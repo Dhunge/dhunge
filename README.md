@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Nish Adhikari
+### A passionate learner from Nepal 🇳🇵
 
-<!--
-**Dhunge/dhunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Flask, Python, and Markdown**  
+💬 Ask me about **web development & GitHub Pages**  
+📫 How to reach me: Gmail: adhikarinish3@gmail.com  
+⚡ Fun fact: I love solving tech problems!
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Dhunge)
+![GitHub followers](https://img.shields.io/github/followers/Dhunge?label=Followers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhunge&show_icons=true&theme=radical)
+
+## 🧠 Skills
+- Python 🐍
+- Flask ⚙️
+- HTML & CSS 🌐
+- Markdown ✍️
+
+## 🚀 Featured Projects
+- [Portfolio Website](https://github.com/Dhunge/portfolio)
+- [Flask Greeting App](https://github.com/Dhunge/flask-greet)
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
