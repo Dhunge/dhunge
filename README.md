@@ -19,10 +19,6 @@ I'm a dedicated learner and aspiring software developer focused on building reli
 
 ---
 
-## Projects
-- [Flask Greeting App](https://github.com/Dhunge/flask-greet) – A dynamic web app built with Flask that greets users interactively.  
-- [Portfolio Website](https://github.com/Dhunge/portfolio) – Personal website to showcase my projects and skills.  
-
 <div align="center">
   <a href="https://github.com/Dhunge?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Projects-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects">
