@@ -42,5 +42,4 @@ I'm a dedicated learner and aspiring software developer focused on building reli
 
 ## Contact
 - **GitHub:** [Dhunge](https://github.com/Dhunge)  
-- **LinkedIn:** [Nish Adhikari](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-- **Email:** your.email@example.com
+- **Email:** adhikarinish3@gmail.com
