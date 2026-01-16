@@ -1,20 +1,20 @@
 # Nish Adhikari
 
-## About Me
-I'm a dedicated learner and aspiring software developer focused on building reliable and well-structured web applications. I’m passionate about writing clean code, learning modern frameworks, and contributing to open-source projects.
+## 👋 About Me
+I’m a dedicated learner and aspiring software developer focused on building **reliable, well-structured web applications**. I enjoy writing clean, maintainable code, learning modern frameworks, and contributing to open-source projects while continuously improving my development workflow.
 
 ---
 
-## Current Focus
-- Backend development with **Python** and **Flask**  
-- Learning **GitHub Pages** and **Markdown** for documentation and portfolio design  
-- Improving collaboration and workflow with **Git** and **version control best practices**
+## 🎯 Current Focus
+- Backend development with **Python** and **Flask**
+- Building and deploying documentation/portfolios using **GitHub Pages** and **Markdown**
+- Improving collaboration using **Git** and version control best practices
 
 ---
 
-## Skills
-- **Languages:** Python, HTML, CSS  
-- **Frameworks & Tools:** Flask, Git, GitHub  
+## 🛠️ Skills
+- **Languages:** Python, **C++**, **JavaScript**, **HTML**, CSS
+- **Frameworks & Tools:** Flask, Git, GitHub
 - **Other:** Markdown, VS Code, Basic Web Deployment
 
 ---
@@ -27,7 +27,7 @@ I'm a dedicated learner and aspiring software developer focused on building reli
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhunge&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
@@ -40,6 +40,7 @@ I'm a dedicated learner and aspiring software developer focused on building reli
 
 ---
 
-## Contact
-- **GitHub:** [Dhunge](https://github.com/Dhunge)  
+## 📫 Contact
+- **GitHub:** [Dhunge](https://github.com/Dhunge)
 - **Email:** adhikarinish3@gmail.com
+
